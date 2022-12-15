@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tumi-Moleme
 - 👀 I’m interested in Javascript, HTML & CSS, PHP and MySQL, Java and Python
 - 🌱 I’m currently learning Javascript data structures and algorithms on freecodecamp 
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me : Just send a message on Lindin.com
 
 <!---
